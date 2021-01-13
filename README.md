@@ -1,4 +1,4 @@
-# bikesharing
+# Bike-sharing Proposal
 
 ## Purpose
   The purpose of this analysis was to utilize bike-sharing data from New York City to create a business proposal for a bike-sharing business in Des Moines, Iowa and to assess the likelihood of success. Tablaeu was then utlized to create visualizations for the proposal of the business. We decided to hone in on the month of August. An important factor that was analyzed was the tripduration. This variable led to insights on how long each bike was rented for, when they were rented and popular times in which they were rented. Before visualizations could be created, the tripduration data type had to be changed to datetime which was done in Jupyter Notebook. The updated csv file was then uploaded to Tablaeu. 
