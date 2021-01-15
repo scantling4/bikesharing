@@ -7,7 +7,7 @@
  Seven different visualizations were selected to create a story of what the bike-sharing data reveals. These visualization include the following: 
  - Number of Rides in the Month of August 
  
-        :there was a total of 2,344,224 trips in the month of August
+         :there was a total of 2,344,224 trips in the month of August
  - A pie chart showing the ratio of customers versus subscribers (usertype)
  
         :from the total trips taken in August, 1,900,359 users were subscribers, and 443,865 were customers. 
