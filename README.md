@@ -16,7 +16,7 @@
         :Thursday is shown to be the day of the week that most bikes are riden
  - A line graph of the checkout time for users 
  
-        :The peak times for length of time bike are checked out is 5-6 hours 
+        :The peak times for length of time bikes are checked out is 5-6 hours 
  - A heatmap of the trips per weekday for each hour of the day
  
         :The peak day and time in August is Thursday between 5-7 p.m.
@@ -28,7 +28,7 @@
         :Peak hours to not vary by gender
  - A heatmap of the number of trips based on gender and usertype: broken down by weekday 
  
-        :Looking across two separate metrics: usertype and gender, the highest reported bike rides are shown to occur on Thursday's. 
+        :Looking across two separate metrics: usertype and gender, the highest reported bike rides are shown to occur on Thursdays. 
  
  ## Summary 
  After looking at various visulaizations- and is demonstrated in the storyboard that was created- the most popular day to ride a bike is on Thursday. Both the visualizations and data support the creation of a bike-sharing business in Des Moines. It may be recommended to have a trial period in Des Moines- as it is a different city and will have different factors that will affect bike usage- before fully investing. This will also reassure investors that they are making the correct decision. Because we only looked at the month of August for this analysis, a visualization of the colder months, such as December, would be of interest to investors. Another visualization that would be beneficial would be to look at the birthdate of the riders and see if there are ay trends there. If there are, marketing towards a certain group of people may be advantageous for this new company. 
