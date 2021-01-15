@@ -15,5 +15,4 @@
  - A heatmap of the number of trips based on gender and usertype: broken down by weekday 
  
  ## Summary 
-  
- 
+ After looking at various visulaizations- and is demonstrated in the storyboard that was created- the most popular day to ride a bike is on Thursday. Both the visualizations and data support the creation of a bike-sharing business in Des Moines. It may be recommended to have a trial period in Des Moines- as it is a different city and will have different factors that will affect bike usage- before fully investing. This will also reassure investors that they are making the correct decision. Because we only looked at the month of August for this analysis, a visualization of the colder months, such as December, would be of interest to investors. Another visualization that would be beneficial would be to look at the 
